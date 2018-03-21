@@ -1,5 +1,5 @@
 > detox
-
+ PR check
 # React Native Demo Project
 
 ## Requirements
